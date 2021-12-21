@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\c_code\ch7_lab\lab1\source\main.c(17): warning C4129: 'c': 無法辨識的字元逸出序列
+c:\c_code\ch7_lab\lab1\source\main.c(17): warning C4129: 'C': 無法辨識的字元逸出序列
+c:\c_code\ch7_lab\lab1\source\main.c(17): warning C4129: 'L': 無法辨識的字元逸出序列
+c:\c_code\ch7_lab\lab1\source\main.c(17): warning C4129: 'g': 無法辨識的字元逸出序列
+c:\c_code\ch7_lab\lab1\source\main.c(18): warning C4129: 'c': 無法辨識的字元逸出序列
+c:\c_code\ch7_lab\lab1\source\main.c(18): warning C4129: 'C': 無法辨識的字元逸出序列
+c:\c_code\ch7_lab\lab1\source\main.c(18): warning C4129: 'L': 無法辨識的字元逸出序列
+c:\c_code\ch7_lab\lab1\source\main.c(18): warning C4129: 'g': 無法辨識的字元逸出序列
+c:\c_code\ch7_lab\lab1\source\main.c(29): warning C4013: 'fsacnf' 未定義; 假設 extern 傳回整數
+c:\c_code\ch7_lab\lab1\source\main.c(33): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+main.obj : error LNK2019: 無法解析的外部符號 _fsacnf 在函式 _main 中被參考
+..\..\temp\debug\lab1.exe : fatal error LNK1120: 1 個無法解析的外部符號
